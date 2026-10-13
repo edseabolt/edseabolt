@@ -10,7 +10,7 @@ I'm a Senior Technical Staff Member at IBM Research in Austin, TX. I build AI-na
 **Before this**
 - Built EDAaaS, an AI-native hybrid-cloud platform for chip design: agent-generated Terraform, an MCP server for workflow authoring, and root-cause agents.
 - Architected the [IBM Functional Genomics Platform](https://github.com/IBM/omxware-getting-started), with ~400K genomes, 70M+ genes, and ~300M protein domains.
-- Built Watson solutions such as Chef Watson and the Watson Advisor for Leukemia. Along the way: 16 patents and 15+ publications.
+- Built Watson solutions such as Chef Watson and the Watson Advisor for Leukemia. Along the way: 16 granted patents and 20 peer-reviewed publications.
 
 **Tools I use daily:** Python · TypeScript · Go · Rust · Claude Code · OpenCode · IBM Bob · MCP · Terraform · OpenShift · IBM LSF
 
