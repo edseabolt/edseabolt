@@ -16,6 +16,4 @@ I'm a Senior Technical Staff Member at IBM Research in Austin, TX. My career has
 - Architected the [IBM Functional Genomics Platform](https://github.com/IBM/omxware-getting-started): ~400K genomes, 70M+ genes, ~300M protein domains.
 - Built Watson solutions including Chef Watson and the Watson Advisor for Leukemia. 16 US patents and 20 publications.
 
-**Open to:** issues and pull requests on [turnstile](https://github.com/edseabolt/turnstile) and [local-agent-stack](https://github.com/edseabolt/local-agent-stack), and conversations about agents, local inference, or AI for EDA.
-
 [LinkedIn](https://www.linkedin.com/in/eseabolt/) · [ORCID](https://orcid.org/0000-0002-2286-0226) · [Email](mailto:edseabolt@gmail.com)
