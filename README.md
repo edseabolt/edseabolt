@@ -14,7 +14,7 @@ I'm a Senior Technical Staff Member (principal-level IC) at IBM Research in Aust
 - **Cloud EDA (EDAaaS):** architected IBM Research's hybrid-cloud platform for chip design on IBM Cloud and AWS, adopted by Cadence, Synopsys, and Rapidus engagements. Built an agent system that generates validated Terraform for large HPC/EDA environments, and an MCP server with OAuth 2.0 device flow so coding agents author and submit EDA workflows, with root-cause and Q&A agents on top.
 
 **Before this**
-- Architected the [IBM Functional Genomics Platform](https://github.com/IBM/omxware-getting-started): a continuously self-updating knowledge base of ~400K genomes, 70M+ genes, 60M+ proteins, and ~300M protein domains. Published in *IEEE/ACM TCBB*; extended to SARS-CoV-2 within weeks of COVID-19 hitting.
+- Architected the [IBM Functional Genomics Platform](https://github.com/IBM/omxware-getting-started): a continuously self-updating knowledge base of ~400K genomes, 70M+ genes, 60M+ proteins, and ~300M protein domains. Published in *IEEE/ACM TCBB*; extended to SARS-CoV-2 in 2–3 days when COVID-19 hit.
 - Built Watson solutions including Chef Watson (4 patents) and the Watson Advisor for Leukemia with MD Anderson.
 - 16 granted patents and 20 peer-reviewed publications.
 
